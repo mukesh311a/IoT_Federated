@@ -1,4 +1,4 @@
-Statistical Significance Report
+ Generatde during Code Execution Statistical Significance 
 =============================
 
 
@@ -46,11 +46,6 @@ Mean Accuracy (DP-FedAvg): 73.68%
 T-statistic: 146.2441
 P-value:     1.5897e-116 (Significant)
 Cohen's d:   29.2488 (Large Effect)
-
-
-Error comparing PQ-FL6G (Proposed) vs FL + Distributed Noise: Algorithms PQ-FL6G (Proposed) or FL + Distributed Noise not found in data.
-
-Error comparing PQ-FL6G (Proposed) vs FL + Secure Aggregation: Algorithms PQ-FL6G (Proposed) or FL + Secure Aggregation not found in data.
 
 Comparison: PQ-FL6G (Proposed) vs FL + PQ Encryption Only
 ------------------------------------------------
