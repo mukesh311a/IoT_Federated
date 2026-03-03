@@ -15,7 +15,7 @@ from src.visualization.plots import Visualizer
 def main():
     print("=========================================")
     print("   PQ-FL6G Comparative Analysis System   ")
-    print("   v1.0.2 - Enterprise Simulation Framework")
+    print("   Simulation Framework")
     print("=========================================\n")
     
     # 1. Initialize Configuration
